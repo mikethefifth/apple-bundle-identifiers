@@ -16,8 +16,8 @@
 | <img src="img/classroom-175x175.jpg" width="52"/> | Apple Classroom | com.apple.classroom | FALSE | TRUE | FALSE | FALSE | TRUE |
 | <img src="img/icon_apple_heart_study_large.jpg" width="52"/> | Apple Heart Study | com.apple.Antimony | TRUE | FALSE | FALSE | FALSE | TRUE |
 | <img src="img/icon_music_large_2x.jpg" width="52"/> | Apple Music | com.apple.Music | TRUE | TRUE | FALSE | TRUE | FALSE |
-| <img src="img/icon_music_large_2x.jpg" width="52"/> | Apple News | com.apple.news | TRUE | TRUE | FALSE | TRUE | FALSE |
-| <img src="img/icon_news_large_2x.jpg" width="52"/> | Apple Store | com.apple.store.Jolly | FALSE | FALSE | FALSE | FALSE | TRUE |
+| <img src="img/icon_news_large_2x.jpg" width="52"/> | Apple News | com.apple.news | TRUE | TRUE | FALSE | TRUE | FALSE |
+| <img src="img/icon_apple_store_large_2x.jpg" width="52"/> | Apple Store | com.apple.store.Jolly | FALSE | FALSE | FALSE | FALSE | TRUE |
 | <img src="img/support-175x175.jpg" width="52"/> | Apple Support | com.apple.supportapp | TRUE | TRUE | FALSE | FALSE | TRUE |
 | <img src="img/icon_tv_large_2x.jpg" width="52"/> | Apple TV | com.apple.tv | TRUE | TRUE | FALSE | TRUE | FALSE |
 | <img src="img/icon_apple_tv_remote_large.jpg" width="52"/> | Apple TV Remote | com.apple.TVRemote | FALSE | FALSE | FALSE | FALSE | TRUE |
@@ -85,5 +85,7 @@
 | <img src="img/icon_tvwatchlist_tvos.jpg" width="52"/> | TV (tvOS) | com.apple.TVWatchList | FALSE | FALSE | TRUE | TRUE | FALSE |
 | <img src="img/icon_tvshows_tvos.jpg" width="52"/> | TV Shows (tvOS) | com.apple.TVShows | FALSE | FALSE | TRUE | TRUE | FALSE |
 | <img src="img/icon_wwdc_large.jpg" width="52"/> | WWDC | developer.apple.wwdc-Release | TRUE | TRUE | TRUE | FALSE | TRUE |
+| <img src="img/icon_wwdc_large.jpg" width="52"/> | WWDC | developer.apple.wwdc-Release | :white_check_mark: | :white_check_mark: | :white_check_mark: | | :white_check_mark: |
+| <img src="img/icon_wwdc_large.jpg" width="52"/> | WWDC | developer.apple.wwdc-Release | - [x] | - [x] | - [x] | - [ ] | - [x] |
 
 </center>
