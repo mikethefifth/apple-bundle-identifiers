@@ -7,8 +7,9 @@
 </p>
 
 <center>
+
 | Icon | App Name | Bundle ID | iPhone | iPad | Apple TV | Built-In App | Available on App Store |
-| ------|------|------|------|------|------|------|------ |
+| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img src=“img/icon_activity_small.jpg” width="52"/> | Activity | com.apple.Fitness | TRUE | FALSE | FALSE | TRUE | FALSE |
 | <img src=“img/icon_airport_utility_large.jpg” width="52"/> | AirPort Utility | com.apple.airport.mobileairportutility | TRUE | TRUE | FALSE | FALSE | TRUE |
 | <img src=“img/icon_apple_events_tvos.jpg” width="52"/> | App Store | com.apple.AppStore | FALSE | FALSE | FALSE | FALSE | FALSE |
