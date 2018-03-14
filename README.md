@@ -8,7 +8,7 @@
 
 <center>
 
-| Icon | App Name | Bundle ID | iPhone | iPad | Apple TV | Built-In App | Available on App Store |
+| Icon | App Name | Bundle ID | iPhone | iPad | tvOS | Built-in | App Store |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | <img src="img/icon_activity_small.jpg" width="52"/> | Activity | com.apple.Fitness | TRUE | FALSE | FALSE | TRUE | FALSE |
 | <img src="img/icon_airport_utility_large.jpg" width="52"/> | AirPort Utility | com.apple.airport.mobileairportutility | TRUE | TRUE | FALSE | FALSE | TRUE |
@@ -80,7 +80,7 @@
 | <img src="img/icon_tvphotos_tvos.jpg" width="52"/> | Photos (tvOS) | com.apple.TVPhotos | FALSE | FALSE | TRUE | TRUE | FALSE |
 | <img src="img/icon_podcasts_large_2x.jpg" width="52"/> | Podcasts | com.apple.podcasts | TRUE | TRUE | TRUE | TRUE | FALSE |
 | <img src="img/icon_tvsearch_tvos.jpg" width="52"/> | Search (tvOS) | com.apple.TVsearch | FALSE | FALSE | TRUE | TRUE | FALSE |
-| <img src="img/icon_tvsettings_tvos.jpg" width="52"/> | Settings (tvOS) | com.apple.TVSettings | FALSE | FALSE | TRUE | TRUE | FALSE |
+| <img src="img/icon_settings_tvos.jpg" width="52"/> | Settings (tvOS) | com.apple.TVSettings | FALSE | FALSE | TRUE | TRUE | FALSE |
 | <img src="img/icon_testflight_large.jpg" width="52"/> | TestFlight | com.apple.TestFlight | TRUE | TRUE | TRUE | FALSE | TRUE |
 | <img src="img/icon_tvwatchlist_tvos.jpg" width="52"/> | TV (tvOS) | com.apple.TVWatchList | FALSE | FALSE | TRUE | TRUE | FALSE |
 | <img src="img/icon_tvshows_tvos.jpg" width="52"/> | TV Shows (tvOS) | com.apple.TVShows | FALSE | FALSE | TRUE | TRUE | FALSE |
