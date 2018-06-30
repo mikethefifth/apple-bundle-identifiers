@@ -58,8 +58,7 @@
 | <img src="img/icon_photos_large_2x.jpg" width="52"/> | Photos | com.apple.mobileslideshow | :white_check_mark: | :white_check_mark: |  | :white_check_mark: |  |
 | <img src="img/icon_reminders_large_2x.jpg" width="52"/> | Reminders | com.apple.reminders | :white_check_mark: | :white_check_mark: |  | :white_check_mark: |  |
 | <img src="img/icon_safari_large_2x.jpg" width="52"/> | Safari | com.apple.mobilesafari | :white_check_mark: | :white_check_mark: |  | :white_check_mark: |  |
-| <img src="img/apple_schoolwork_1024x1024bb.jpg" width="52"/> | Schoolwork | com.apple.schoolwork.ClassKitApp |
-| :white_check_mark: |  |  | :white_check_mark: |
+| <img src="img/apple_schoolwork_1024x1024bb.jpg" width="52"/> | Schoolwork | com.apple.schoolwork.ClassKitApp |  | :white_check_mark: |  |  | :white_check_mark: |
 | <img src="img/icon_settings_large_2x.jpg" width="52"/> | Settings | com.apple.Preferences | :white_check_mark: | :white_check_mark: |  | :white_check_mark: |  |
 | <img src="img/icon_stocks_large_2x.jpg" width="52"/> | Stocks | com.apple.Stocks | :white_check_mark: |  |  | :white_check_mark: |  |
 | <img src="img/playgrounds-175x175.jpg" width="52"/> | Swift Playgrounds | com.apple.Playgrounds |  | :white_check_mark: |  |  | :white_check_mark: |
